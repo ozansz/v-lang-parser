@@ -1,0 +1,11 @@
+<SymbolTable>
+    <FunctionDecl id='tcpSock' return-type='int' params=[] />
+    <VariableDecl id='tcpSock__sockfd' scope='local_tcpSock' type='int' />
+    <FunctionDecl id='bindSock' return-type='int' params=['int'] />
+    <VariableDecl id='bindSock__ret' scope='local_bindSock' type='int' />
+    <FunctionDecl id='listenSock' return-type='int' params=['int'] />
+    <VariableDecl id='listenSock__ret' scope='local_listenSock' type='int' />
+    <FunctionDecl id='main' return-type='int' params=[] />
+    <VariableDecl id='main__sockfd' scope='local_main' type='int' />
+    <VariableDecl id='main__errno' scope='local_main' type='int' />
+</SymbolTable>

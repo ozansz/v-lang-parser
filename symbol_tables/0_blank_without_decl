@@ -1,0 +1,3 @@
+<SymbolTable>
+    <FunctionDecl id='main' return-type='int' params=[] />
+</SymbolTable>

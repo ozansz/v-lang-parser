@@ -1,0 +1,9 @@
+<SymbolTable>
+    <FunctionDecl id='printTranspose' return-type='int' params=['int[][]', 'int', 'int'] />
+    <VariableDecl id='printTranspose__i' scope='local_printTranspose' type='int' />
+    <VariableDecl id='printTranspose__j' scope='local_printTranspose' type='int' />
+    <FunctionDecl id='main' return-type='int' params=[] />
+    <VariableDecl id='main__matrix' scope='local_main' type='int[3][3]' />
+    <VariableDecl id='main__i' scope='local_main' type='int' />
+    <VariableDecl id='main__j' scope='local_main' type='int' />
+</SymbolTable>

@@ -1,0 +1,12 @@
+<SymbolTable>
+    <VariableDecl id='num1' scope='global' type='real' />
+    <VariableDecl id='num2' scope='global' type='real' />
+    <VariableDecl id='choice' scope='global' type='int' />
+    <FunctionDecl id='printOptions' return-type='int' params=[] />
+    <FunctionDecl id='factorial' return-type='real' params=['real'] />
+    <FunctionDecl id='power' return-type='real' params=['real', 'real'] />
+    <VariableDecl id='power__p' scope='local_power' type='real' />
+    <VariableDecl id='power__i' scope='local_power' type='int' />
+    <FunctionDecl id='main' return-type='int' params=[] />
+    <VariableDecl id='main__dummy' scope='local_main' type='int' />
+</SymbolTable>

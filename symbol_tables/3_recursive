@@ -1,0 +1,5 @@
+<SymbolTable>
+    <VariableDecl id='num' scope='global' type='int' />
+    <FunctionDecl id='factorial' return-type='int' params=['int'] />
+    <FunctionDecl id='main' return-type='int' params=[] />
+</SymbolTable>
